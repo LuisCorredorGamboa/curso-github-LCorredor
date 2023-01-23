@@ -33,6 +33,7 @@ Localice el renglón que lista la tecnología de su interés y modifique únicam
 |4|Micro Servicios|[Que son micro servicios](https://aws.amazon.com/es/microservices/#:~:text=Los%20microservicios%20son%20un%20enfoque,servicios%20son%20equipos%20peque%C3%B1os%20independientes.)|2|
 |5|Machine Learning|[Machine Learning](https://www.ibm.com/co-es/analytics/machine-learning)|1|
 |6|Inteligencia artificial|[AI](https://www.elespectador.com/tecnologia/chatgpt-responde-como-se-puede-ganar-dinero-con-su-inteligencia-artificial/)|1|
+|7|Bases de datos orientadas a grafos|[Neo4j]( https://neo4j.com/developer/get-started/)|1|
 |||||
 
 ---
