@@ -34,7 +34,7 @@ Localice el renglón que lista la tecnología de su interés y modifique únicam
 |5|Machine Learning|[Machine Learning](https://www.ibm.com/co-es/analytics/machine-learning)|1|
 |6|Inteligencia artificial|[AI](https://www.elespectador.com/tecnologia/chatgpt-responde-como-se-puede-ganar-dinero-con-su-inteligencia-artificial/)|1|
 |7|Bases de datos orientadas a grafos|[Neo4j]( https://neo4j.com/developer/get-started/)|1|
-|8|Bases de datos|[DB]( (https://www.oracle.com/co/database/what-is-database/)|1|
+|8|Bases de datos|[DB](https://www.oracle.com/co/database/what-is-database/)|1|
 |||||
 
 ---
