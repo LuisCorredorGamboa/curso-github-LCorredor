@@ -36,6 +36,7 @@ Localice el renglón que lista la tecnología de su interés y modifique únicam
 |7|Bases de datos orientadas a grafos|[Neo4j]( https://neo4j.com/developer/get-started/)|1|
 |8|Bases de datos|[DB](https://www.oracle.com/co/database/what-is-database/)|1|
 |9|Metaverse|[About Metaverse](https://about.meta.com/ltam/metaverse/)|1|
+|10|Netec|[Netec](https://www.netec.com/)|1|
 |||||
 
 ---
